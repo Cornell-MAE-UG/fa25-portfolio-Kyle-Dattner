@@ -8,12 +8,12 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [kd483@cornell.edu](mailto:kd483@cornell.edu) | | | **Phone:** +203 947 6988
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in design Passionate about ... and eager to apply my knowledge in real-world applications.
 
 ---
 
