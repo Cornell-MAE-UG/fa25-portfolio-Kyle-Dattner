@@ -7,6 +7,6 @@ image: /assets/images/Aircraft-Pitch-Angle.png
 ---
 
 
-Acknowledgements: This was a group project, with work on this project done in collaboration with Michelle Mobius, Audrey Garon, and Parker McLaughlin. This project was a preliminary research piece into aircraft pitch control, not intended to be a defining paper on the subject but rather an initial inquery into the topic and how system dynamics principles and concepts can be applied.
+Acknowledgements: This was a group project, with work on this project done in collaboration with Michelle Mobius, Audrey Garon, and Parker McLaughlin. This project was a preliminary research piece into aircraft pitch control, not intended to be a defining paper on the subject but rather an initial inquiry into the topic and how system dynamics principles and concepts can be applied.
 
-[Download my Report]({{ "/assets/MAE3260-final-groupwork.pdf" | relative_url }}) in PDF format.
+[Download my Report]({{ "/assets/MAE3260-final-groupwork-report.pdf" | relative_url }}) in PDF format.
